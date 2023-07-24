@@ -1,1 +1,1 @@
-# mini-project
+# instagram clone
